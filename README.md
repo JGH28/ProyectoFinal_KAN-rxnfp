@@ -7,9 +7,9 @@
 ## Proyecto Final - KAN para Clasificación de Reacciones Químicas
 
 ### Integrantes del equipo:
-Héctor Manuel Godínez Lozano
-José de Jesús González Hernández
-Diana Romina Miranda Grijalva
+* Héctor Manuel Godínez Lozano
+* José de Jesús González Hernández
+* Diana Romina Miranda Grijalva
 
 ## Objetivo del Proyecto
 El objetivo principal de este proyecto es utilizar **Kolmogorov-Arnold Networks (KANs)** para clasificar reacciones químicas basadas en sus representaciones SMILES. Al implementar KANs, buscamos mejorar la interpretación y el desempeño del modelo para identificar la **superclase** de cada reacción a partir de su SMILES, un formato ampliamente utilizado para representar la estructura de moléculas y reacciones químicas.
