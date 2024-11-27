@@ -70,7 +70,7 @@ pip install pandas matplotlib scikit-learn
 2. Ejecutar el Jupyter Notebook: Abre y ejecuta el notebook KAN_Model.ipynb para entrenar el modelo y generar las predicciones.
 
 ### Notas
-* El dataset schneider50k.csv se obtuvo de rxn4chemistry GitHub.
+* El dataset schneider50k.csv se obtuvo de [rxn4chemistry GitHub](https://github.com/rxn4chemistry/rxnfp).
 * El modelo fue entrenado utilizando un subconjunto de datos debido a limitaciones de recursos computacionales. Es recomendable trabajar con el dataset completo para obtener mejores resultados.
 
 ### Explicación Adicional
